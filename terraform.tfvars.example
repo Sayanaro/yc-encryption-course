@@ -1,0 +1,9 @@
+k8s_version = "1.27"
+
+
+# ===== Worker Node variables ======
+platform_id         = "standard-v3"
+cores               = 2
+memory              = 4
+disk_type           = "network-hdd"
+disk_size           = 64
